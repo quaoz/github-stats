@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 69.79386%;" class="progress-item"></span><span style="background-color: #3572A5;width: 19.24769%;" class="progress-item"></span><span style="background-color: #dea584;width: 7.81985%;" class="progress-item"></span><span style="background-color: #4f87c4;width: 1.06776%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.95183%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.79070%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.27498%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.05087%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.00246%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 69.79096%;" class="progress-item"></span><span style="background-color: #3572A5;width: 19.24689%;" class="progress-item"></span><span style="background-color: #dea584;width: 7.81952%;" class="progress-item"></span><span style="background-color: #4f87c4;width: 1.06772%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.95179%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.79483%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.27497%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 0.05087%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.00246%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -155,7 +155,7 @@ div.ellipsis {
                         Java
                     </span>
                     <span class="percent">
-                        69.794%
+                        69.791%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -174,7 +174,7 @@ div.ellipsis {
                         Python
                     </span>
                     <span class="percent">
-                        19.248%
+                        19.247%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -250,7 +250,7 @@ div.ellipsis {
                         JavaScript
                     </span>
                     <span class="percent">
-                        0.791%
+                        0.795%
                     </span>
             </li>
             <li style="animation-delay: 900ms;">
